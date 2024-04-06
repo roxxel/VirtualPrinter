@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "VirtualPrinter": {
+      "commandName": "Project",
+      "commandLineArgs": "client"
+    },
+    "Server": {
+      "commandName": "Project",
+      "commandLineArgs": "server"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "client 62.171.138.168 \"Ghostscript PDF\""
+    }
+  }
+}
